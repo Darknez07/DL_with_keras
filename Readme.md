@@ -11,4 +11,8 @@ Within this week updated<br>
 <li> It is the simple neural net layer which can be said to be building block of bigger layer</li>
 <li> Just adjust the weights differently and with certain layers and you can modify the behaviour</li>
 </ol>
-<h3> More Coming, i.e. CNN </h3>
+### Convolution Neural Nets --> Uses convolution function on matrices
+The convolution function in Calculus help to identify the necessary <br>
+Information into the noised data  in order to approximate a pattern.<br>
+Thus in 2D data it helps(Actually 4D or 5D to be accurate in  models) to<br>
+formulate the specific pattern in the network.<br>
